@@ -1,0 +1,6 @@
+E:\LaurieSpace\myInstructorWorld\Intro to C# and Selenium\Exercises\CarValueCalculator\bin\Debug\CarValueCalculator.exe.config
+E:\LaurieSpace\myInstructorWorld\Intro to C# and Selenium\Exercises\CarValueCalculator\bin\Debug\CarValueCalculator.exe
+E:\LaurieSpace\myInstructorWorld\Intro to C# and Selenium\Exercises\CarValueCalculator\bin\Debug\CarValueCalculator.pdb
+E:\LaurieSpace\myInstructorWorld\Intro to C# and Selenium\Exercises\CarValueCalculator\obj\Debug\CarValueCalculator.exe
+E:\LaurieSpace\myInstructorWorld\Intro to C# and Selenium\Exercises\CarValueCalculator\obj\Debug\CarValueCalculator.pdb
+E:\LaurieSpace\myInstructorWorld\Intro to C# and Selenium\Exercises\CarValueCalculator\obj\Debug\CarValueCalculator.csprojResolveAssemblyReference.cache
